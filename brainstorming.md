@@ -10,6 +10,7 @@ Literature:
 * https://www.sciencedirect.com/science/article/pii/S2352340923003414
 * https://www.nycfoodpolicy.org/comparing-nyc-supermarkets/
 * https://github.com/nychealth/food-pricing-survey-nyc-2019/
+* https://www.nytimes.com/2007/09/15/nyregion/15gristedes.html
 
 Aims:
 * See where Gristedes positions themselves
